@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vite/Vue/Rust**
 
-- 🌴 I’m planning to learn **Flutter/Bevy/Godot**
+- 🌴 I’m planning to learn **Flutter/Bevy/Godot/Docker**
 
 - 📝 I regularly write articles on my [issue blog](https://github.com/lomirus/issue-blogs/issues)
 
