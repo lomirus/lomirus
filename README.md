@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lomirus</h1>
-<h3 align="center">A frontend rookie (freshman)</h3>
+<h3 align="center">Freshman, and a rookie web dev.</h3>
 
 - 🌱 I’m currently learning **Vite/Vue/Rust**
 
