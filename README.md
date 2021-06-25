@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Vite/Vue/Rust**
 
-- 🌴 I’m planning to learn **Flutter/Bevy/Godot/Docker**
+- 🌴 I’m planning to learn **Svelte/Flutter/Solid/Godot**
 
 - 📝 I regularly write articles on my [issue blog](https://github.com/lomirus/issue-blogs/issues)
-
-- 🎮 I want to be **an amateur indie game developer**
 
 - 📫 How to reach me **lomirus@qq.com**
 
