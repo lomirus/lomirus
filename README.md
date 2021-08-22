@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Lomirus
 ### Freshman, and a rookie web dev.
 
-- 🌱 I’m currently learning **Vite/Vue/Rust**
+- 🌱 I’m currently learning **Svelte/Rust**
 
-- 🌴 I’m planning to learn **Svelte/Flutter/Solid/Godot**
+- 🌴 I’m planning to learn **Flutter/Solid/Godot**
 
 - 📝 I regularly write articles on my [issue blog](https://github.com/lomirus/issue-blogs/issues)
 
