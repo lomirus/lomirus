@@ -5,7 +5,7 @@
 
 - 🌴 I’m planning to learn **Flutter/Solid/Godot**
 
-- 📝 I regularly write articles on my [issue blog](https://github.com/lomirus/issue-blogs/issues)
+- 📝 I regularly write articles on my blog [Lomirus' Site](https://lomirus.github.io/)
 
 - 📫 How to reach me **lomirus@qq.com**
 
