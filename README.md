@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Lomirus
-### Freshman, and a rookie web dev.
+### Sophomore, and a rookie web dev.
 
 - 🌱 I’m currently learning **Svelte/Rust**
 
