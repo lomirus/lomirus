@@ -1,13 +1,13 @@
 ## Hi 👋, I'm Lomirus
 ### Sophomore, and a rookie web dev.
 
-- 🌱 I’m currently learning **Svelte/Rust**
+- 🌱 I’m currently learning **Svelte/Rust/Flutter**
 
-- 🌴 I’m planning to learn **Flutter/Solid/Godot**
+- 🌴 I’m planning to learn **[Solid](https://solidproject.org/)/Godot**
 
 - 📝 I regularly write articles on my blog [Lomirus' Site](https://lomirus.github.io/)
 
-- 📫 How to reach me **lomirus@qq.com**
+- 📫 How to reach me: **lomirus@qq.com**
 
 ### Github Stats
 
