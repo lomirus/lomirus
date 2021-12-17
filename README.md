@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Svelte/Rust/Flutter**
 
-- 🌴 I’m planning to learn **[Solid](https://solidproject.org/)/Godot**
+- 🌴 I’m planning to learn **[Solid](https://solidproject.org/)/[Bevy](https://bevyengine.org/)**
 
 - 📝 I regularly write articles on my blog [Lomirus' Site](https://lomirus.github.io/)
 
