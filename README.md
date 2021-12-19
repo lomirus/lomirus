@@ -1,11 +1,13 @@
 ## Hi 👋, I'm Lomirus
 ### Sophomore, and a rookie web dev.
 
-- 🌱 I’m currently learning **Svelte/Rust/Flutter**
+- 🌱 Currently learning **Rust/[Bevy](https://bevyengine.org/)**
 
-- 🌴 I’m planning to learn **[Solid](https://solidproject.org/)/[Bevy](https://bevyengine.org/)**
+- 🌲 Planning to learn Pixel Art for India Games
 
-- 📝 I regularly write articles on my blog [Lomirus' Site](https://lomirus.github.io/)
+- 🌴 Interested in **[Solid](https://solidproject.org/)**
+
+- 📝 Writing articles on my blog: [Lomirus' Site](https://lomirus.github.io/)
 
 - 📫 How to reach me: **lomirus@qq.com**
 
