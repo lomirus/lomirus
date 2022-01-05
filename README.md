@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **Rust/[Bevy](https://bevyengine.org/)**
 
-- 🌲 Planning to learn Pixel Art for India Games
+- 🌲 Planning to learn Pixel Art for Indie Games
 
 - 🌴 Interested in **[Solid](https://solidproject.org/)**
 
