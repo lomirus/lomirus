@@ -26,4 +26,4 @@
 
 ### Github Stats
 
-![Lomirus's Github Stats](https://github-readme-stats.vercel.app/api?username=lomirus&show_icons=true&theme=radical&count_private=true&include_all_commits=true#gh-dark-mode-only)
+![Lomirus's Github Stats](https://github-readme-stats.vercel.app/api?username=lomirus&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true#gh-dark-mode-only)
