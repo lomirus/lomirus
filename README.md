@@ -25,5 +25,5 @@
 - 📫 How to reach me: lomirus@qq.com
 
 ### Github Stats
-
-![Lomirus's Github Stats](https://github-readme-stats.vercel.app/api?username=lomirus&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Lomirus's Github Stats](https://github-readme-stats.vercel.app/api?username=lomirus&show_icons=true&theme=default&count_private=true&include_all_commits=true#gh-light-mode-only)
+![Lomirus's Github Stats](https://github-readme-stats.vercel.app/api?username=lomirus&show_icons=true&theme=radical&count_private=true&include_all_commits=true#gh-dark-mode-only)
