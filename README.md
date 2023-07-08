@@ -22,7 +22,7 @@
   ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-- 🌱 Some other things interested: [Bevy](https://bevyengine.org/), [SolidJS](https://www.solidjs.com/), [Solid](https://solidproject.org/)
+- 🌱 Some other things interested: [Bevy](https://bevyengine.org/), [New Ithkuil](https://en.wikipedia.org/wiki/Ithkuil)
 
 - 📝 Writing articles on my blog: [Lomirus' Site](https://lomirus.github.io/)
 
