@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Lomirus
-### Junior, and a rookie web dev.
+
+### Senior, and a rookie web dev.
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +27,7 @@
 
 - 📝 Writing articles on my blog: [Lomirus' Site](https://lomirus.github.io/)
 
-- 📫 How to reach me: lomirus@qq.com
+- 📫 How to reach me: lomirus@qq.com (CN) / lomirus.dev@protonmail.com (Global)
 
 ### Github Stats
 
